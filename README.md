@@ -1,4 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+twitterclone-bieb3wr2f-guterresthomas.vercel.app
+
+recriei a tela de registro e login do twitter usando react, next e tailwind
+
 
 ## Getting Started
 
